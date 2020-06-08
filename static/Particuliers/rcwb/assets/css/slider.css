@@ -1,0 +1,382 @@
+.dsg_o_header-card-slide-juin .dsg_m_kapsul {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    max-width: inherit;
+    margin: inherit;
+    z-index: 1;
+    position: relative;
+}
+
+.swiper-pagination.swiper-pagination-bullets .swiper-pagination-bullet {
+    background: #fff;
+}
+
+.swiper-pagination.swiper-pagination-bullets .swiper-pagination-bullet-active {
+    background: #e9041e;
+}
+
+.dsg_o_header-card-slide-juin .swiper-slide.dsg_m_kapsul .dsg_m_card-slide h1 .dsg_moving-line:after {
+    background-color: #fff !important;
+    bottom: -1rem;
+}
+
+
+/** expert **/
+
+.dsg_m_live_expert .dsg_expert-logo span {
+    display: block;
+    background: #ee3b45;
+    padding: 9px;
+    width: 13rem;
+    text-align: center;
+    font-family: "Montserrat", Arial, Verdana, "Lucida Grande", sans-serif;
+    color: white;
+    font-weight: 800;
+}
+
+.dsg_o_header-card-slide-juin .dsg_m_live_expert.special-edition .dsg_m_card-slide {
+    padding: 2rem 0rem 4.25rem;
+    margin: 0;
+    margin-left: 1rem;
+}
+
+.dsg_expert-logo {
+    margin-bottom: 1.5rem;
+}
+
+.dsg_o_header-card-slide-juin .dsg_m_live_expert.special-edition .dsg_m_card-slide h1 .dsg_moving-line.dsg_mline_mob:after {
+    width: 14rem;
+}
+
+.dsg_o_header-card-slide-juin .dsg_m_live_expert.special-edition .dsg_m_card-slide .dsg_a_text {
+    font-size: 1.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.27;
+    letter-spacing: normal;
+    color: #010036;
+    margin-top: 4.9rem;
+    width: 43%;
+    margin: inherit;
+    margin-top: 4rem;
+}
+
+.dsg_o_header-card-slide-juin .dsg_m_live_expert.special-edition .dsg_m_card-slide h1 {
+    width: 70%;
+    text-align: left;
+    margin: inherit;
+}
+.dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide .dsg_expert-logo {
+    margin-bottom: 0;
+}
+.dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide {
+    padding-top: 2.75rem;
+}
+.dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide h1 {
+    font-size: 3.75rem;
+}
+.dsg_o_header-card-slide-juin .swiper-slide .dsg_m_card-slide h1 .dsg_moving-line.moving-line-assurance:after {
+    background-color: #010035!important;
+    width: 16.975rem !important;
+}
+.dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide p {
+    font-size: 1.875rem;
+    line-height: normal;
+}
+
+
+@media only screen and (max-width: 530px) {
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide {
+        padding-top: 0.75rem;
+    }
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide .dsg_expert-logo {
+        margin-bottom: 0.75rem;
+    }
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide h1 {
+        font-size: 1.438rem!important;
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide .dsg_m_card-slide h1 .dsg_moving-line.moving-line-assurance:after {
+        width: 8.175rem !important;
+    }
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide p {
+        color: #010035!important;
+        font-size: 1.125rem;
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide.dsg_m_kapsul .dsg_m_card-slide h1 .dsg_moving-line:after {
+        bottom: -3rem;
+    }
+    .dsg_m_live_expert.special-edition {
+        background-image: url("/static/Particuliers/rcwb/assets/img/femme_agee_mobile.jpg") !important;
+    }
+    .dsg_m_live_expert .dsg_expert-logo span {
+        width: 7rem;
+        padding: 7px;
+        font-size: 9px;
+        font-weight: 800;
+    }
+    .dsg_m_live_expert .dsg_expert-logo img {
+        width: 100%;
+    }
+    .dsg_m_live_expert .dsg_expert-logo {
+        width: 50%;
+        margin: auto;
+    }
+    .dsg_o_header-card-slide-juin .dsg_m_live_expert.special-edition .dsg_m_card-slide h1 {
+        width: 46%;
+        text-align: left;
+        margin: auto;
+        font-size: 23px !important;
+        margin-top: 0.75rem;
+    }
+    .dsg_o_header-card-slide-juin .dsg_m_live_expert.special-edition .dsg_m_card-slide .dsg_a_text {
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.29;
+        letter-spacing: normal;
+        color: #010036 !important;
+        margin-top: 4.9rem;
+        width: 47%;
+        margin: auto !important;
+        margin-top: 1rem !important;
+    }
+    .dsg_o_header-card-slide-juin .dsg_m_live_expert.special-edition .dsg_m_card-slide .-dsg_bt_position {
+        width: 179px;
+    }
+}
+
+
+/**/
+
+
+/*
+.dsg_o_header-card-slide-juin .swiper-slide:nth-child(1) {
+    background-color: rgba(229, 95, 80, 0.9);
+}*/
+
+.dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) {
+    background-image: url(/static/Particuliers/rcwb/assets/img/fond-main.jpg?9935767655);
+}
+
+
+/*
+.dsg_o_header-card-slide-juin .swiper-slide(1) .dsg_m_card-slide h1 {
+    color: #fff !important;
+}*/
+
+.dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) .dsg_m_card-slide h1 .dsg_moving-line:after {
+    background-color: #fff !important;
+    bottom: -1rem;
+}
+
+.dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) .dsg_m_card-slide .dsg_a_text {
+    color: #fff !important;
+}
+
+.dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) .dsg_m_card-slide h1 {
+    color: #fff !important;
+}
+
+.dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) .dsg_m_card-slide {
+    padding-top: 3rem!important;
+}
+
+.dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) .dsg_m_card-slide h1,
+.dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide h1 {
+    font-size: 3rem;
+    line-height: 1.32;
+}
+
+
+/* Vous pouvez faire attention quand vous faites des surcharges de style svp ? Merci bien. */
+
+
+/*.dsg_o_header-card-slide-juin .swiper-slide .dsg_m_card-slide h1 strong,*/
+
+.dsg_o_header-card-slide-juin .dsg_m_kapsul .dsg_m_card-slide h1 {
+    color: #fff;
+}
+
+.dsg_o_header-card-slide-juin .dsg_m_kapsul .dsg_m_card-slide .dsg_m_img_kapsul {
+    display: block;
+    margin: 4rem 0 2rem 0;
+}
+
+.dsg_o_header-card-slide-juin .dsg_m_kapsul .dsg_m_card-slide .dsg_m_img_kapsul-rembourse {
+    margin: 0;
+    margin-top: 1rem;
+    display: block;
+}
+
+.dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide .mentionsconditions {
+    position: absolute;
+    bottom: 6rem;
+    font-size: 1rem!important;
+    color: #fff;
+}
+
+.dsg_m_live_expert .-dsg_big:focus,
+.-dsg_big:focus {
+    background-color: #010035 !important;
+}
+
+.dsg_o_header-card-slide-juin .swiper-slide .dsg_m_card-slide .-dsg_btn_desktop {
+    display: block;
+}
+
+.dsg_o_header-card-slide-juin .swiper-slide .dsg_m_card-slide .-dsg_btn_mobile {
+    display: none;
+}
+
+@media only screen and (max-width: 1023px) {
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide {
+        padding-top: 0.75rem!important;
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide .dsg_m_card-slide h1 .dsg_moving-line.moving-line-assurance:after {
+        width: 8.175rem !important;
+    }t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide {
+         padding-top: 0.75rem;
+     }
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide .dsg_expert-logo {
+        margin-bottom: 0.75rem;
+    }
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide p {
+        color: #010035!important;
+        font-size: 1.125rem;
+    }
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide p .br_dsg_slider {
+        display: block;
+    }
+    .dsg_o_header-card-slide-juin .dsg_m_live_expert.special-edition .dsg_m_card-slide .dsg_a_text {
+        font-size: 1.9rem;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.27;
+        letter-spacing: normal;
+        color: #010036 !important;
+        margin-top: 4.9rem;
+        width: 48%;
+        margin: inherit;
+        margin-top: 1rem;
+        font-size: 15px;
+    }
+    .br_dsg_slider {
+        display: none;
+    }
+    
+    .dsg_o_header-card-slide-juin .dsg_m_kapsul.swiper-slide::before {
+        background-color: transparent !important;
+    }
+    .dsg_o_header-card-slide-juin .dsg_m_kapsul .dsg_m_card-slide .dsg_m_img_kapsul-rembourse {
+        margin-top: 1rem;
+    }
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) .dsg_m_card-slide h1,
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide h1,
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(1) .dsg_m_card-slide h1 {
+        font-size: 1.7rem;
+    }
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) .dsg_m_card-slide h1 {
+        line-height: 1.2;
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) .dsg_m_card-slide {
+        padding-top: 0.7rem!important;
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) .dsg_m_card-slide .dsg_a_text {
+        font-size: 1.125rem!important;
+        line-height: normal!important;
+    }
+    .dsg_o_header-card-slide-juin .dsg_m_kapsul .dsg_m_card-slide .dsg_m_img_kapsul {
+        margin-top: 2rem;
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) .dsg_m_card-slide .-dsg_bt_position {
+        left: auto;
+        right: auto;
+        margin: 0 auto;
+        position: absolute;
+        transform: translateX(17%);
+        bottom: 100px;
+    }
+    .dsg_o_header-card-slide-juin .dsg_m_kapsul .mentionsconditions {
+        bottom: 4rem;
+        font-size: 0.9rem !important;
+    }
+    .dsg_t_section .dsg_o_header-card-slide-juin .swiper-slide:nth-child(2) .dsg_m_card-slide .mentionsconditions {
+        font-size: 0.875rem!important;
+        line-height: 1.3rem!important;
+        margin-bottom: 4rem!important;
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide::before {
+        background-color: rgba(1, 0, 53, 0);
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) {
+        background-image: url(/static/Particuliers/rcwb/assets/img/visuel.jpg?445454523454354546);
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide .dsg_m_card-slide .-dsg_bt_position {
+        bottom: 100px;
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide:nth-child(3) .dsg_m_card-slide .-dsg_bt_position {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide .dsg_m_card-slide .-dsg_btn_desktop {
+        display: none;
+    }
+    .dsg_o_header-card-slide-juin .swiper-slide .dsg_m_card-slide .-dsg_btn_mobile {
+        display: block;
+    }
+}
+
+
+/* BFM */
+
+.special-edition.bfm {
+    color: #fff;
+}
+
+.dsg_o_header-card-slide-juin .special-edition.bfm .dsg_m_card-slide h1 {
+    width: 65%;
+    color: #fff !important;
+    margin-left: 0;
+}
+
+.dsg_o_header-card-slide-juin .special-edition.bfm .dsg_m_card-slide .dsg_a_text {
+    color: #fff !important;
+    margin-left: 0;
+    width: auto !important;
+}
+
+.dsg_o_header-card-slide-juin .special-edition.bfm .dsg_m_card-slide h1 .dsg_moving-line.dsg_mline_mob:after {
+    width: 14rem;
+    background: #fff!important;
+}
+
+.dsg_o_header-card-slide-juin .special-edition.bfm .dsg_expert-logo {
+    margin: 2rem 0 3rem 0;
+}
+
+.dsg_o_header-card-slide-juin .special-edition.bfm .-dsg_bt_position {
+    background: #0063be !important;
+}
+
+.dsg_o_header-card-slide-juin .special-edition.bfm .logo_hp15expt {
+    width: auto !important;
+}
+
+
+/**/
+
+@media only screen and (max-width: 767px) {
+    .dsg_m_live_expert {
+        background-position: 65% center !important;
+    }
+    .dsg_o_header-card-slide-juin .dsg_m_live_expert .dsg_m_card-slide .mentionshpslide {
+        margin: 8rem 0 0 !important;
+    }
+    .dsg_removline {
+        display: initial !important;
+    }
+}
